@@ -146,18 +146,14 @@
       alt="user image"
     />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-      <h4 class="project-title item">Sheepify States</h4>
+      <h4 class="project-title item">Know me</h4>
       <p class="font-work_sans">
-        I am Salman Khan from Lucknow, India. I am working in an Indian Startup
-        as a User Eperience Designer for the past two years.
+        I am a prefinal year student and front-end developer who blends the arts of design and development. 
         <br />
-        I got featured various times on many big and small marketplaces,
-        portfolio websites and blogs. I also received some awards and
-        recognitions from some of the big and small award companies. Besides
-        designing, I like to watch anime, read books and solve sudoku.
+        I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flair intact.
       </p>
       <button class="text-sky-800 font-bold text-2xl tracking-wider">
-        View Case Study
+        Student by day and hacker by night
       </button>
     </div>
   </div>
@@ -167,9 +163,6 @@
       <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold">
         Let’s work together and make everything super cute and super useful.
       </h2>
-      <a class="underline text-2xl text-blue-600 font-work_sans"
-        >📧 hire@author.com</a
-      >
     </div>
     <div class="w-5/12 pr-28">
       <div class="flex flex-wrap justify-end gap-2">
