@@ -66,7 +66,7 @@
         <h4 class="project-title item">OONI Probe</h4>
         <p class="font-work_sans pr-12">
           OONI Probe is a free and open-source software designed to measure internet censorship and other forms of network interference.
-          I primarily working on the UI/UX of both ther run and the explorer using ReactJS.
+          I primarily working on the UI/UX of both ther run and the explorer using ReactJS
         </p>
         <a href="https://github.com/ooni">
         <button class="text-sky-800 font-bold text-2xl tracking-wider">
